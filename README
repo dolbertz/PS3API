@@ -1,3 +1,14 @@
 This will evolve into a class library to access the PS3Heroes.com-API.
 
-You can find out more about the PS3Heroes.com-API at this URL: http://ps3heroes.com/api
+You can find out more about the PS3Heroes.com-API at this URL: 
+	http://ps3heroes.com/api
+
+
+VERSION 0.1
+===========
+
+This are just some examples for me to play with the whole structure.
+Next thing would be to actually extending http://ps3heroes.com/api
+for a lot more methods.
+
+And caching, of course...
